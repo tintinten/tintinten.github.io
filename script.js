@@ -3,7 +3,7 @@ const messages = [
     "Promise ayaw mo?",
     "Ayaw mo talaga?:((",
     "Sure na sure na sure na ayaw?",
-    "Siguro Maling pindot lang",
+    "Siguro maling pindot lang",
     "Ay No talaga?:(",
     "Pweaseeeeee:((",
     "But I want you to be my Valentine",
